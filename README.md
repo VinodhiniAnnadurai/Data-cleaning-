@@ -1,11 +1,18 @@
 Product Data Management Dataset
 Overview
-This project contains a product dataset with information about product IDs, manufacturing dates, country codes, product names, brands, prices, quantities, and categories.
+This project contains a product dataset with information about product IDs,
+manufacturing dates, 
+country codes,
+product names,
+brands, prices,
+quantities, 
+and categories.
 
 Dataset Details
 The dataset includes the following fields:
 
 Product ID – Unique product identifier.
+
 Manufacturing Date – Product manufacturing date.
 Country Code – Country identifier (US, UK, IN).
 Product Name – Original product name.
@@ -27,6 +34,7 @@ Data Summary
 Total Records: 32
 Countries: US, UK, IN
 Product Categories: Electronics, Fashion, Kitchen, Outdoor
+
 Tools
 Microsoft Excel / Google Sheets
 Data Cleaning
